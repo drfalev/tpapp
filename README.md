@@ -1,2 +1,2 @@
 # tpapp
-usz tp app
+tp app
